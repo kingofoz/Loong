@@ -1,0 +1,4 @@
+If loading of Sikuli library is failed, please make sure:
+1) Set JRE not JDK in PATH, this is a problem of Sikuli;
+2) Java and Sikuli are both 32 bit or 64 bit;
+3) If you installed both 32bit and 64bit Java, you have to set 32bit one in PATH.
